@@ -1,0 +1,26 @@
+[
+    {
+        "kanji": "人",
+        "english": "person",
+        "pos": "noun",
+        "reading": "ひと"
+    },
+    {
+        "kanji": "学生",
+        "english": "student",
+        "pos": "noun",
+        "reading": "がくせい"
+    },
+    {
+        "kanji": "元気",
+        "english": "well, healthy, lively",
+        "pos": "na-adj",
+        "reading": "げんき"
+    },
+    {
+        "kanji": "静か",
+        "english": "quiet",
+        "pos": "na-adj",
+        "reading": "しずか"
+    }
+]
