@@ -22,5 +22,35 @@
         "english": "quiet",
         "pos": "na-adj",
         "reading": "しずか"
+    },
+    {
+        "kanji": "綺麗",
+        "english": "pretty, clean",
+        "pos": "na-adj",
+        "reading": "きれい"
+    },
+    {
+        "kanji": "友達",
+        "english": "friend",
+        "pos": "noun",
+        "reading": "ともだち"
+    },
+    {
+        "kanji": "新設",
+        "english": "kind",
+        "pos": "na-adj",
+        "reading": "しんせつ"
+    },
+    {
+        "kanji": "魚",
+        "english": "fish",
+        "pos": "noun",
+        "reading": "さかな"
+    },
+    {
+        "kanji": "好き",
+        "english": "likeable, desireable",
+        "pos": "na-adj",
+        "reading": "すき"
     }
 ]
